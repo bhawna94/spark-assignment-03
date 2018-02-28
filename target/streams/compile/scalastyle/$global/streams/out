@@ -1,0 +1,14 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/spark-assignment-3/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/spark-assignment-3/src/main/scala/Football.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/spark-assignment-3/src/main/scala/Football.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/spark-assignment-3/src/main/scala/Application.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/spark-assignment-3/src/main/scala/Application.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/spark-assignment-3/src/main/scala/Operations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/spark-assignment-3/src/main/scala/Operations.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 3 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 8 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/spark-assignment-3/target[0m
